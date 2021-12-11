@@ -1,0 +1,99 @@
+<?xml version="1.0"?>
+<rdf:RDF 
+    xmlns:dc="https://purl.org/dc/elements/1.1" 
+    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+
+    <rdf:Description rdf:about="https://disbudpar.acehprov.go.id/pantai-sumur-tiga/">
+        <dc:name        >Nama Wisata     : Pantai Sumur Tiga</dc:sabang>
+        <dc:cateogry    >Kategori Wisata : Wisata Alam</dc:cateogry>
+        <dc:city        >Terletak di     : Kota Sabang</dc:city>
+        <dc:province    >Provinsi        : Aceh</dc:province>
+        <dc:kegiatan    >Hal Menarik     : Diving, Snorkling dan Berselancar angin.</dc:kegiatan>
+        <dc:description >Deskripsi       : 
+            Objek wisata pantai Sumur Tiga merupakan pantai indah yang terletak di gampong Ie Meulee, Pulau Weh. Pantai yang berpasir putih ini dikenal dengan panorama alam yang begitu mempesona. Sebagai pantai yang ramai dikunjungi oleh wisatawan lokal dan mancanegara, pantai sumur tiga dilengkapi fasilitas pendukung  seperti diving dan snorkling, sehingga tak heran bila pantai ini banyak diminati oleh wisatawan lokal maupun wisatawan untuk memanjakan diri di pantai ini.
+            Pantai Sumur Tiga berlokasi di pantai timur Pulau Weh atau sekira 15 menit dari Kota Sabang, tepatnya di Kecamatan Ie Meule, Sukajaya, Sabang, Pulau Weh, Provinsi Aceh. Konon kaatnya, asal muasal nama Pantai Sumur Tiga ini dikarenakan memiliki tiga sumur air tawar disana. Sehingga oleh sebab iu tempat itu dinamai dengan nama Pantai Sumur Tiga. Pantai Sumur Tiga memiliki karakteristik yang berbeda dengan Pantai Iboih atau pun Pantai Gapang. Pasir di Pantai Sumur Tiga lebih putih berkilau bak kristal dan lembut meskipun airnya sedikit berombak. Panorama pantainya membentangkan laut biru dipadu angin sepoi yang menggerakkan nyiur di pinggir pantai.
+            Selain itu, Pantai yang jernih dengan air laut berwarna biru kehijauan adalah pemandangan yang sangat menenangkan jiwa. Pohon kelapa yang dihembuskan oleh angin laut pastinya akan membuai Anda saat rebahan di pasir pantai atau duduk di rerumputan dan bawah pohon kelapa. Sementara itu, dilokasi pantai ini juga terdapat situs sejarah peninggalan masa Jepang. Yaitu, banyaknya benteng sisa Pendudukan Jepang meski kurang terawat, namun benteng tersebut masih bisa kita temukan di wilayah pantai Sumur Tiga tersebut. Pantai Sumur Tiga bisa dikatakan sebagai surga untuk Anda yang suka melakukan aktivitas diving dan snorkling dan berselancar angin.
+        </dc:description>
+        <dc:Image>https://ksmtour.com/media/images/articles13/pantai-sumur-tiga-aceh.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Danau_Toba">
+        <dc:name        >Nama Wisata     : Danau Toba</dc:sabang>
+        <dc:cateogry    >Kategori Wisata : Wisata Alam</dc:cateogry>
+        <dc:city        >Terletak di     : Parapat</dc:city>
+        <dc:province    >Provinsi        : Sumatera Utara</dc:province>
+        <dc:kegiatan    >Hal Menarik     : Pemandian, Air Terjun, Penginapan, Perkebunan, Diving, Snorkling dan Berselancar angin.</dc:kegiatan>
+        <dc:description >Deskripsi       : 
+            Terdapat banyak tempat wisata yang terkenal salah satunya yaitu wisata air rangat tepatnya di bawah kaki gunung pusuk buhit, air rangat itu adalah air hangat yang berasal dari gunung yang meletus dan Pusuk Buhit sendiri adalah sebuah gunung aktif yang sangat disakralkan oleh etnis Batak sehingga beragam cerita mistis pun terdapat di gunung ini. Gunung ini terletak di Pulau Samosir, dan merupakan puncak tertinggi dari semua dataran tinggi di Pulau Samosir. Dengan ketinggian sekitar 1.077 meter dari Danau Toba, gunung ini terlihat berdiri dengan gagahnya. Sehingga apabila Anda sedang berada di sekitar perairan Danau Toba, maka Gunung Pusuk Buhit ini akan terlihat sangat jelas sekali dengan puncaknya yang berwarna hijau dengan kombinasi warna abu-abu dan ditutupi oleh awan di sekitarnya. Lalu ketika kita berenang di air rangat itu tidak membayar uang masuk, tinggal masuk saja tapi setelah kita selesai mandi atau selesai berenang kita diharuskan makan di tempat permandian air rangat.</dc:description>
+        <dc:Image>https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Indonesia_-_Lake_Toba_%2826224127503%29.jpg/300px-Indonesia_-_Lake_Toba_%2826224127503%29.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://id.wikipedia.org/wiki/Ngarai_Sianok">
+        <dc:name        >Nama Wisata     : Ngarai Sianok</dc:sabang>
+        <dc:cateogry    >Kategori Wisata : Wisata Alam</dc:cateogry>
+        <dc:city        >Terletak di     : Bukittinggi</dc:city>
+        <dc:province    >Provinsi        : Sumatera Utara</dc:province>
+        <dc:kegiatan    >Hal Menarik     : Pemandangan flora dan fauna serta olahraga air.</dc:kegiatan>
+        <dc:description >Deskripsi       : 
+            Sebuah mahakarya alam berupa ngarai yang megah, yang memiliki panjang sekitar 15 kilometer, yang sering disamakan juga dengan lukisan alam Green Canyon di Colorado, Amerika.
+            Ngarai Sianok merupakan wisata Bukittinggi yang bisa menjadi pilihan destinasi wisata di akhir pekan bersama keluarga anda. Bukan hanya sebatas tempat wisata alam saja, namun Ngarai Sianok menyajikan juga nilai sejarah, dan edukasi.
+            Lokasi Ngarai Sianok terdapat di kawasan Geopark Ngarai Sianok-Maninjau. Secara administratif, sebetulnya Ngarai Sianok masuk ke Kota Bukittinggi, dan Kabupaten Agam.
+        </dc:description>
+        <dc:Image>https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Bukittinggi_Ca%C3%B1%C3%B3n_del_Sianok.JPG/250px-Bukittinggi_Ca%C3%B1%C3%B3n_del_Sianok.JPG</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://www.goriau.com/berita/baca/sungai-kampar-masuk-daftar-27-objek-wisata-terbaik-nasional.html">
+        <dc:name        >Nama Wisata     : Sungai Kampar</dc:sabang>
+        <dc:cateogry    >Kategori Wisata : Wisata Bahari</dc:cateogry>
+        <dc:city        >Terletak di     : Desa Teluk Meranti</dc:city>
+        <dc:province    >Provinsi        : Riau</dc:province>
+        <dc:kegiatan    >Hal Menarik     : Pemandangan, Pemandian dan Berselancar</dc:kegiatan>
+        <dc:description >Deskripsi       : 
+            Destinasi wisata ini ada di Desa Teluk Meranti, Kepulauan Riau. Di sungai itu terdapat bono, yaitu gelombang pasang surut dengan ombak suara yang menderu keras. 
+            Bono ini mempunyai kecepatan 40 kilomater per jam. Ombak Bono ini menjadi daya tarik wisata Sungai Kampar karena wisata ini sangat cocok bagi kamu yang hobi berselancar. 
+            Tempat ini juga cocok buat kamu yang juga hendak reunian sembari mengisi waktu liburan panjang Anda
+            </dc:description>
+        <dc:Image>https://static.goriau.com/assets/imgbank/14092013/2013dd09f759226ae23ed0qux-9950.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="http://www.ppk-kp3k.kkp.go.id/direktori-pulau/index.php/public_c/pulau_info/652">
+        <dc:name        >Nama Wisata     : Pulau Bawah</dc:sabang>
+        <dc:cateogry    >Kategori Wisata : Wisata Bahari</dc:cateogry>
+        <dc:city        >Terletak di     : Anambas</dc:city>
+        <dc:province    >Provinsi        : Kepulauan Riau</dc:province>
+        <dc:kegiatan    >Hal Menarik     : Selam dan Snorkeling</dc:kegiatan>
+        <dc:description >Deskripsi       : 
+            Pulau dengan luas 300 hektare tersebut berada di jantung Pulau Anambas, Kepulauan Riau dan hanya bisa diakses melalui jalur laut atau pesawat terbang yang bisa mendarat di laut. Dari Bandara Batam, membutuhkan waktu kurang lebih sekitar 70 menit perjalanan.
+            Pulau Bawah memiliki tiga laguna dengan air yang bening hingga 13 pantai dengan pasir putih yang lembut. Menariknya, wisatawan yang berkunjung ke Pulau Bawah dibatasi maksimal 70 orang untuk menjaga ekosistem yang ada.  
+        </dc:description>
+        <dc:Image>https://img.inews.co.id/media/822/files/inews_new/2020/12/29/Pulau_Bawah.jpg</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://muarojambikab.go.id/">
+        <dc:name        >Nama Wisata     : Kompleks Candi Muaro Jambi</dc:sabang>
+        <dc:cateogry    >Kategori Wisata : Wisata Sejarah</dc:cateogry>
+        <dc:city        >Terletak di     : Muaro Jambi Maro Sebo</dc:city>
+        <dc:province    >Provinsi        : Jambi</dc:province>
+        <dc:kegiatan    >Hal Menarik     : Candi-Candi Hindu-Budha</dc:kegiatan>
+        <dc:description >Deskripsi       : 
+            Kabupaten Muaro Jambi memang terkenal memiliki kompeks percandian yang menjadi lokasi wisata sejarah favorit.
+            Di sini kamu dapat menemukan candi situr pubakala agama Budha-Hindu yang disebut sebagai candi terluas se Asia Tenggara.
+            Kompleks Candi Muaro Jambi memiliki luas area 3981 hektar dengan candi yang di duga merupakan peninggalan kerajaan Melayu dan Kerajaan Sriwijaya.    
+        </dc:description>
+        <dc:Image>https://img.okezone.com/content/2017/05/12/406/1689120/candi-muaro-jambi-diharapkan-menjadi-wisata-internasional-bzvEjfBLi2.JPG</dc:image>
+    </rdf:Description>
+
+    <rdf:Description rdf:about="https://travel.detik.com/cerita-perjalanan/d-5408990/objek-wisata-sejarah-fort-marlborough">
+        <dc:name        >Nama Wisata     : Fort Marlborough</dc:sabang>
+        <dc:cateogry    >Kategori Wisata : Wisata Bersejarah</dc:cateogry>
+        <dc:city        >Terletak di     : Bengkulu</dc:city>
+        <dc:province    >Provinsi        : Bengkulu</dc:province>
+        <dc:kegiatan    >Hal Menarik     : Kemegahan bangunan kolonial Inggris</dc:kegiatan>
+        <dc:description >Deskripsi       : 
+            Para pengunjung dapat melihat kebesaran kekuatan penjajah kolonial di masanya dengan bangunan benteng yang besar dan masih terjaga kelengkapannya ini.
+            Kemudian menikmati panorama laut dari salah satu sisi benteng yang memang indah di sore hari, untuk penginapan para wisatawan tidak perlu susah-susah lagi, karena terdapat hotel dan penginapan di radius maksimal 1 km dari benteng ini.
+        </dc:description>
+        <dc:Image>https://www.bobobox.co.id/blog/wp-content/uploads/2019/12/benteng-fort-marlborough-jejak-kolonialisme-inggris-di-bengkulu-1-450x281.jpg</dc:image>
+    </rdf:Description>
+
+</rdf:RDF>  
